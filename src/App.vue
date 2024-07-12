@@ -306,7 +306,7 @@ onMounted(() => {
           <div class="flex flex-row items-center gap-2">
             <a
               class="icon-button"
-              href="https://github.com/lyqht/styled-qr-code-generator"
+              href="https://github.com/ninjastrikers/mini-qr"
               :aria-label="t('GitHub repository for this project')"
             >
               <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24">
