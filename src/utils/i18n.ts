@@ -32,7 +32,7 @@ import uk from '../../locales/uk.json'
 import zh from '../../locales/zh.json'
 
 export const i18n = createI18n({
-  locale: 'en',
+  locale: 'my',
   legacy: false,
   messages: {
     bg,
